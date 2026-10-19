@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+const base='http://localhost:8000',cookies=new Map();
+async function request(method,path,body,csrf=true){const headers={Accept:'application/json',Origin:'http://localhost:5173',Referer:'http://localhost:5173/'};if(cookies.size)headers.Cookie=[...cookies].map(([k,v])=>k+'='+v).join('; ');if(csrf&&cookies.has('XSRF-TOKEN'))headers['X-XSRF-TOKEN']=decodeURIComponent(cookies.get('XSRF-TOKEN'));if(body)headers['Content-Type']='application/json';const r=await fetch(base+path,{method,headers,body:body?JSON.stringify(body):undefined});for(const line of r.headers.getSetCookie()){const pair=line.split(';')[0],at=pair.indexOf('=');cookies.set(pair.slice(0,at),pair.slice(at+1));}let data=null;if(r.status!==204)data=await r.json();return{status:r.status,data,headers:r.headers};}
+const checks=[];
+let r=await request('GET','/api/user');assert.equal(r.status,401);checks.push('Anonymous user: HTTP 401');
+r=await request('GET','/sanctum/csrf-cookie');assert.equal(r.status,204);assert.ok(cookies.has('XSRF-TOKEN'));assert.ok(cookies.has('it_stock_session'));assert.equal(r.headers.get('access-control-allow-origin'),'http://localhost:5173');assert.equal(r.headers.get('access-control-allow-credentials'),'true');checks.push('CSRF cookie + session cookie + credentialed CORS: OK');
+r=await request('POST','/login',{email:'employee@demo.test',password:'Employee123!'},false);assert.equal(r.status,419);checks.push('Missing CSRF header: HTTP 419');
+r=await request('POST','/login',{email:'employee@demo.test',password:'Employee123!'});assert.equal(r.status,200);assert.equal(r.data.data.role,'employee');checks.push('Employee cookie login: HTTP 200');
+r=await request('GET','/api/user');assert.equal(r.data.data.role,'employee');checks.push('Authenticated session profile: OK');
+r=await request('GET','/api/products?per_page=2');assert.equal(r.status,200);assert.equal(r.data.data.length,2);const productId=r.data.data[0].id;
+for(const [method,path,body] of [['POST','/api/products',{name:'Unauthorized'}],['PATCH','/api/products/'+productId,{name:'Unauthorized'}],['PATCH','/api/products/'+productId+'/status',{is_active:false}],['POST','/api/categories',{name:'Unauthorized'}],['PATCH','/api/categories/1',{name:'Unauthorized'}]]){r=await request(method,path,body);assert.equal(r.status,403);checks.push(method+' '+path+': HTTP 403');}
+r=await request('POST','/logout');assert.equal(r.status,200);r=await request('GET','/api/user');assert.equal(r.status,401);checks.push('Logout invalidates real session: HTTP 401');
+console.log(JSON.stringify({passed:checks.length,failed:0,checks},null,2));

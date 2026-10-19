@@ -1,0 +1,27 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated frontend output
+/backend/vendor/
+/frontend/node_modules/
+/frontend/dist/
+
+# Laravel runtime files
+/backend/.phpunit.cache/
+/backend/bootstrap/cache/*.php
+/backend/storage/logs/*
+/backend/storage/framework/cache/*
+/backend/storage/framework/sessions/*
+/backend/storage/framework/views/*
+/backend/database/*.sqlite
+/backend/database/*.sqlite-*
+
+# Logs and operating system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Composer download cache
+/tools/composer-cache/

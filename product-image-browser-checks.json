@@ -1,0 +1,302 @@
+[
+  {
+    "complete": true,
+    "height": 339,
+    "sku": "IT-0001",
+    "width": 500
+  },
+  {
+    "complete": true,
+    "height": 600,
+    "sku": "IT-0002",
+    "width": 800
+  },
+  {
+    "complete": true,
+    "height": 800,
+    "sku": "IT-0003",
+    "width": 800
+  },
+  {
+    "complete": true,
+    "height": 2629,
+    "sku": "IT-0004",
+    "width": 4210
+  },
+  {
+    "complete": true,
+    "height": 900,
+    "sku": "IT-0005",
+    "width": 900
+  },
+  {
+    "complete": true,
+    "height": 1000,
+    "sku": "IT-0006",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 621,
+    "sku": "IT-0007",
+    "width": 828
+  },
+  {
+    "complete": true,
+    "height": 423,
+    "sku": "IT-0008",
+    "width": 1554
+  },
+  {
+    "complete": true,
+    "height": 1024,
+    "sku": "IT-0009",
+    "width": 1024
+  },
+  {
+    "complete": true,
+    "height": 763,
+    "sku": "IT-0010",
+    "width": 1784
+  },
+  {
+    "complete": true,
+    "height": 453,
+    "sku": "IT-0011",
+    "width": 1024
+  },
+  {
+    "complete": true,
+    "height": 480,
+    "sku": "IT-0012",
+    "width": 640
+  },
+  {
+    "complete": true,
+    "height": 587,
+    "sku": "IT-0013",
+    "width": 786
+  },
+  {
+    "complete": true,
+    "height": 2048,
+    "sku": "IT-0014",
+    "width": 2048
+  },
+  {
+    "complete": true,
+    "height": 640,
+    "sku": "IT-0015",
+    "width": 640
+  },
+  {
+    "complete": true,
+    "height": 640,
+    "sku": "IT-0016",
+    "width": 640
+  },
+  {
+    "complete": true,
+    "height": 704,
+    "sku": "IT-0017",
+    "width": 704
+  },
+  {
+    "complete": true,
+    "height": 1494,
+    "sku": "IT-0018",
+    "width": 981
+  },
+  {
+    "complete": true,
+    "height": 1680,
+    "sku": "IT-0019",
+    "width": 1680
+  },
+  {
+    "complete": true,
+    "height": 1280,
+    "sku": "IT-0020",
+    "width": 1280
+  },
+  {
+    "complete": true,
+    "height": 2160,
+    "sku": "IT-0021",
+    "width": 2500
+  },
+  {
+    "complete": true,
+    "height": 800,
+    "sku": "IT-0022",
+    "width": 1600
+  },
+  {
+    "complete": true,
+    "height": 2160,
+    "sku": "IT-0023",
+    "width": 2500
+  },
+  {
+    "complete": true,
+    "height": 500,
+    "sku": "IT-0024",
+    "width": 500
+  },
+  {
+    "complete": true,
+    "height": 1600,
+    "sku": "IT-0025",
+    "width": 1600
+  },
+  {
+    "complete": true,
+    "height": 500,
+    "sku": "IT-0026",
+    "width": 500
+  },
+  {
+    "complete": true,
+    "height": 800,
+    "sku": "IT-0027",
+    "width": 1600
+  },
+  {
+    "complete": true,
+    "height": 1800,
+    "sku": "IT-0028",
+    "width": 1200
+  },
+  {
+    "complete": true,
+    "height": 1000,
+    "sku": "IT-0029",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 1000,
+    "sku": "IT-0030",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 1501,
+    "sku": "IT-0031",
+    "width": 1501
+  },
+  {
+    "complete": true,
+    "height": 820,
+    "sku": "IT-0032",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 1000,
+    "sku": "IT-0033",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 549,
+    "sku": "IT-0034",
+    "width": 550
+  },
+  {
+    "complete": true,
+    "height": 255,
+    "sku": "IT-0035",
+    "width": 342
+  },
+  {
+    "complete": true,
+    "height": 344,
+    "sku": "IT-0036",
+    "width": 500
+  },
+  {
+    "complete": true,
+    "height": 1214,
+    "sku": "IT-0037",
+    "width": 1214
+  },
+  {
+    "complete": true,
+    "height": 600,
+    "sku": "IT-0038",
+    "width": 600
+  },
+  {
+    "complete": true,
+    "height": 450,
+    "sku": "IT-0039",
+    "width": 450
+  },
+  {
+    "complete": true,
+    "height": 625,
+    "sku": "IT-0040",
+    "width": 625
+  },
+  {
+    "complete": true,
+    "height": 430,
+    "sku": "IT-0041",
+    "width": 573
+  },
+  {
+    "complete": true,
+    "height": 680,
+    "sku": "IT-0042",
+    "width": 680
+  },
+  {
+    "complete": true,
+    "height": 552,
+    "sku": "IT-0043",
+    "width": 552
+  },
+  {
+    "complete": true,
+    "height": 480,
+    "sku": "IT-0044",
+    "width": 640
+  },
+  {
+    "complete": true,
+    "height": 1000,
+    "sku": "IT-0045",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 1000,
+    "sku": "IT-0046",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 1000,
+    "sku": "IT-0047",
+    "width": 1000
+  },
+  {
+    "complete": true,
+    "height": 1080,
+    "sku": "IT-0048",
+    "width": 1080
+  },
+  {
+    "complete": true,
+    "height": 1200,
+    "sku": "IT-0049",
+    "width": 1200
+  },
+  {
+    "complete": true,
+    "height": 900,
+    "sku": "IT-0050",
+    "width": 1200
+  }
+]

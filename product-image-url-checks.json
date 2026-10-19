@@ -1,0 +1,456 @@
+[
+  {
+    "sku": "IT-0001",
+    "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/optiplex-desktops/optiplex-d13-tower/spi/7010-tower-plus/ng/desktop-optiplex-7010-mt-plus-black-relsize-500-ng.psd?fmt=jpg&wid=500&hei=339",
+    "source": "https://www.dell.com/support/home/en-us/product-support/product/optiplex-7010-desktop/overview",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 78043,
+    "verified": true
+  },
+  {
+    "sku": "IT-0002",
+    "url": "https://cdn.cs.1worldsync.com/c9/e6/c9e64b70-b993-4632-8a10-c2cded3987d5.jpg",
+    "source": "https://www.shi.com/Product/43876158/Lenovo-ThinkCentre-M70q-11DU",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 18002,
+    "verified": true
+  },
+  {
+    "sku": "IT-0003",
+    "url": "https://www.acomputerservice.com.pe/2391-large_default/pc-hp-prodesk-400-g9-sff-intel-i5-13500-250ghz-16gb-ddr4-3200mhz-1tb-ssd-9h9a2lt.jpg",
+    "source": "https://www.acomputerservice.com.pe/hp/1128-pc-hp-prodesk-400-g9-sff-intel-i5-13500-250ghz-16gb-ddr4-3200mhz-1tb-ssd-9h9a2lt.html",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 32288,
+    "verified": true
+  },
+  {
+    "sku": "IT-0004",
+    "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/latitude/14-5440-non-touch/la5440nt-rgb-cnb-00000ff090-gy.psd?fmt=jpg&wid=4210&hei=2629",
+    "source": "https://www.dell.com/support/home/en-us/product-support/product/latitude-14-5440-laptop/overview",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 11843580,
+    "verified": true
+  },
+  {
+    "sku": "IT-0005",
+    "url": "https://item-shopping.c.yimg.jp/i/n/lenovo_21m3000xjp",
+    "source": "https://store.shopping.yahoo.co.jp/lenovo/21m3000xjp.html",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 68498,
+    "verified": true
+  },
+  {
+    "sku": "IT-0006",
+    "url": "https://mbtech.fra1.cdn.digitaloceanspaces.com/static/Karty/hpeb840g10_1.jpg",
+    "source": "https://www.mbtech.sk/sk/hp-elitebook-840-g10-core-i5-1335u-13ghz16gb-ram512gb-ssd-pciebatterycare-266643",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 233416,
+    "verified": true
+  },
+  {
+    "sku": "IT-0007",
+    "url": "https://cf-images.dustin.eu/cdn-cgi/image/fit%3Dcontain%2Cformat%3Dauto%2Cquality%3D75%2Cwidth%3D828%2Cfit%3Dcontain/image/d200001001435017/kingston-technology-fury-beast-muistimoduuli-16-gb-1-x-16-gb-ddr4-1600-mhz-16gb-1600-3200mhz-ddr4-288-pin-dimm.jpg",
+    "source": "https://www.dustin.fi/product/5011251345/technology-fury-beast-muistimoduuli-16-gb-1-x-16-gb-ddr4-1600-mhz",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 17076,
+    "verified": true
+  },
+  {
+    "sku": "IT-0008",
+    "url": "https://compx.ua/image/catalog/products/227/fc24d2f3-e840-11ee-8f93-001b21ea407b.jpg",
+    "source": "https://compx.ua/ru/modul-pamjati-ddr4-8gb-crucial-3200-mhz-ct8g4dfra32am4ff-2210141/",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 71442,
+    "verified": true
+  },
+  {
+    "sku": "IT-0009",
+    "url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Memory/CMK32GX4M2E3200C16/Gallery/VENG_LPX_BLK_01.webp",
+    "source": "https://www.corsair.com/us/en/p/memory/cmk32gx4m2e3200c16/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk32gx4m2e3200c16",
+    "status": 200,
+    "content_type": "image/webp",
+    "bytes": 44558,
+    "verified": true
+  },
+  {
+    "sku": "IT-0010",
+    "url": "https://image.ceneostatic.pl/data/products/124124882/i-pamiec-ram-samsung-16gb-ddr5-m323r2ga3bb0-cqk.jpg",
+    "source": "https://www.ceneo.pl/124124882",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 275737,
+    "verified": true
+  },
+  {
+    "sku": "IT-0011",
+    "source": "https://www.kaufland.it/product/355716635/",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/fdb5aa21370fd1f523379673b5c78544.jpg",
+    "title": " Crucial 16GB DDR4-2666 SO-DIMM RAM Module",
+    "url": "https://media.cdn.kaufland.de/product-images/1024x1024/fdb5aa21370fd1f523379673b5c78544.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 111011,
+    "verified": true
+  },
+  {
+    "sku": "IT-0012",
+    "url": "https://c1.neweggimages.com/ProductImage/20-242-187-02.jpg",
+    "source": "https://www.newegg.com/kingston-technology-corp-valueram-8gb-ddr4-2133-cas-latency-cl15-desktop-memory/p/N82E16820242187",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 56754,
+    "verified": true
+  },
+  {
+    "sku": "IT-0013",
+    "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_155079407/fee_786_587_png",
+    "source": "https://www.mediamarkt.es/es/product/_disco-duro-ssd-interno-1-tb-samsung-990-evo-interno-not-available-136549934.html",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 42150,
+    "verified": true
+  },
+  {
+    "sku": "IT-0014",
+    "url": "https://laptopaz.vn/media/product/2953_ktc_product_ssd_snv2s_500g_1_zm_lg.jpg",
+    "source": "https://laptopaz.vn/o-cung-ssd-kingston-nv2-500gbnvme-pcie-4.0-x4-m.2-2280.html",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 103263,
+    "verified": true
+  },
+  {
+    "sku": "IT-0015",
+    "url": "https://cs-d.ecimg.tw/items/DCBE21A900DEUS1/000001_1644199654.jpg",
+    "source": "https://24h.pchome.com.tw/prod/DCBE21-A900DEUS1",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 107117,
+    "verified": true
+  },
+  {
+    "sku": "IT-0016",
+    "url": "https://i5.walmartimages.com/seo/WD-Blue-1TB-SN580-NVMe-Internal-SSD-WDBWMY0010BBL-WRWM_28933fdc-65d2-4eef-95f4-474478cfd226.51d02b302ea9785e967da33be118bf8b.jpeg?odnBg=FFFFFF&odnHeight=640&odnWidth=640",
+    "source": "https://business.walmart.com/ip/WD-Blue-1TB-SN580-NVMe-Internal-SSD-WDBWMY0010BBL-WRWM/5080177169",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 16732,
+    "verified": true
+  },
+  {
+    "sku": "IT-0017",
+    "url": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/products/hard-drives/shared/images/barracuda-3-5-drives-card-layout-products-tile-1-image.jpg",
+    "source": "https://www.seagate.com/products/hard-drives/barracuda-hard-drive/",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 22446,
+    "verified": true
+  },
+  {
+    "sku": "IT-0018",
+    "url": "https://e.428.ua/img/2380126/3000/2000/ssd-nakopitel_usb_1tb_samsung_t7_titan_gray_mu-pc1t0t_ww~981~1494.jpg",
+    "source": "https://elmir.ua/ssd-drives/ssd-drive_usb_1tb_samsung_t7_titan_gray_mu-pc1t0t_ww.html",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 105098,
+    "verified": true
+  },
+  {
+    "sku": "IT-0019",
+    "url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/usb-flash-drives/ultra-usb-3-0/gallery/ultra-usb-3-0-front.png",
+    "source": "https://shop.sandisk.com/products/usb-flash-drives/sandisk-ultra-usb-3-0",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 180433,
+    "verified": true
+  },
+  {
+    "sku": "IT-0020",
+    "url": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-red-plus-sata-3-5-hdd/gallery/wd-red-plus-sata-3-5-hdd-4tb.png.wdthumb.1280.1280.webp",
+    "source": "https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd",
+    "status": 200,
+    "content_type": "image/webp",
+    "bytes": 27892,
+    "verified": true
+  },
+  {
+    "sku": "IT-0021",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m185/gallery/2025-update-assets/m185-grey-top-angle-1.png",
+    "source": "https://www.logitech.com/en-us/shop/p/m185-wireless-mouse",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 293752,
+    "verified": true
+  },
+  {
+    "sku": "IT-0022",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/k120/gallery/k120-gallery-01-new.png",
+    "source": "https://www.logitech.com/en-us/shop/p/k120-usb-standard-computer",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 358760,
+    "verified": true
+  },
+  {
+    "sku": "IT-0023",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/2025-update/mx-master-3s-bluetooth-edition-top-view-black-new-1.png",
+    "source": "https://www.logitech.com/en-us/shop/p/mx-master-3s",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 460144,
+    "verified": true
+  },
+  {
+    "sku": "IT-0024",
+    "url": "https://www.incehesap.com/resim/urun/201912/microsoft-ms-3j2-00018-desktop-600-klavye-mouse-set-klavye-mouse-set-103481.webp",
+    "source": "https://www.incehesap.com/microsoft-desktop-600-3j2-00018-kablolu-klavye-mouse-set-fiyati-44878/",
+    "status": 200,
+    "content_type": "image/webp",
+    "bytes": 48140,
+    "verified": true
+  },
+  {
+    "sku": "IT-0025",
+    "url": "https://notbadtech.co.nz/cdn/shop/files/HP1503.jpg?v=1735712602&width=1946",
+    "source": "https://notbadtech.co.nz/products/hp-150-240j6aa-usb-wired-mouse-black",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 137805,
+    "verified": true
+  },
+  {
+    "sku": "IT-0026",
+    "url": "https://snpi.dell.com/snp/images/products/large/en-in~580-AEKD_v1/580-AEKD_v1.jpg",
+    "source": "https://www.dell.com/en-in/shop/dell-wired-keyboard-kb216-black/apd/580-aekd/pc-accessories",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 23702,
+    "verified": true
+  },
+  {
+    "sku": "IT-0027",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-1-new.png",
+    "source": "https://www.logitech.com/en-us/shop/p/mk270-wireless-keyboard-mouse",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 267800,
+    "verified": true
+  },
+  {
+    "sku": "IT-0028",
+    "url": "https://cdn.dsmcdn.com/ty1714/prod/QC_ENRICHMENT/20250721/00/6c9ec7c1-4ce3-3f8f-8956-505a44e2bdd5/1_org_zoom.jpg",
+    "source": "https://www.trendyol.com/lenovo/4y50r20863-kablolu-mouse-1600dpi-siyah-p-281920048",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 82492,
+    "verified": true
+  },
+  {
+    "sku": "IT-0029",
+    "url": "https://static.tp-link.com/1large_1627273016330o.jpg",
+    "source": "https://www.tp-link.com/en/home-networking/wifi-router/archer-ax23/",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 119042,
+    "verified": true
+  },
+  {
+    "sku": "IT-0030",
+    "url": "https://static.tp-link.com/upload/image-line/TL-SG108_UN_5.0_01_large_20231024111419x.jpg",
+    "source": "https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sg108/",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 211504,
+    "verified": true
+  },
+  {
+    "sku": "IT-0031",
+    "url": "https://cdn.ecomm.ui.com/products/259686b4-ae75-411c-90bc-e4040e38ca56/3dac99a9-6352-44f3-ac8b-ade89c707831.png",
+    "source": "https://techspecs.ui.com/unifi/wifi/u6-lite",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 1157054,
+    "verified": true
+  },
+  {
+    "sku": "IT-0032",
+    "url": "https://www.dlink.com/en/-/media/product-pages/dgs/1016d/dgs1016dfront.png",
+    "source": "https://www.dlink.com/en/products/dgs-1016d-16-port-gigabit-unmanaged-desktop-switch",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 125854,
+    "verified": true
+  },
+  {
+    "sku": "IT-0033",
+    "url": "https://static.tp-link.com/1_large_1557038845349f.jpg",
+    "source": "https://www.tp-link.com/us/home-networking/usb-converter/ue300/",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 30205,
+    "verified": true
+  },
+  {
+    "sku": "IT-0034",
+    "url": "https://media.s-bol.com/q181VD1PVWD3/j2m1j9P/550x549.jpg",
+    "source": "https://www.bol.com/nl/nl/p/wifi-6e-m-2-wireless-card-met-bluetooth-5-2-voor-laptop-mu-mimo-ondersteunt-windows-10-11-linux/9300000249995045/",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 79375,
+    "verified": true
+  },
+  {
+    "sku": "IT-0035",
+    "url": "https://assets.netgear.com/transform/pdp-mobile/b37661dd-661c-4883-a45b-f8f2048dab9d/GS305_productcarousel_hero_image",
+    "source": "https://www.netgear.com/business/wired/switches/unmanaged/gs305/",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 23020,
+    "verified": true
+  },
+  {
+    "sku": "IT-0036",
+    "url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2422h/spi/ng/monitor-p2422h-relsize-500-ng.psd?qlt=95&fit=constrain,1&hei=344&wid=500&fmt=jpg",
+    "source": "https://www.dell.com/support/home/en-us/product-support/product/dell-p2422h-monitor/overview",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 157442,
+    "verified": true
+  },
+  {
+    "sku": "IT-0037",
+    "url": "https://www.hpshop.co.za/cdn/shop/files/7e79a6b1-0bde-4b87-b112-010a4331de5e-1.jpg?v=1741354230&width=1214",
+    "source": "https://www.hpshop.co.za/products/hp-m24f-23-8-inch-1920-x-1080p-fhd-16-9-75hz-5ms-amd-freesync-ips-monitor-2d9k0as-321195",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 284501,
+    "verified": true
+  },
+  {
+    "sku": "IT-0038",
+    "url": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/600x/9df78eab33525d08d6e5fb8d27136e95/m/y/my-essential-s3-27s31c-ls27c310eaexxs-535603850.jpg",
+    "source": "https://comfy.ua/monitor-samsung-s27c310-ls27c310eaixci.html",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 40813,
+    "verified": true
+  },
+  {
+    "sku": "IT-0039",
+    "url": "https://www.lg.com/content/dam/channel/wcms/jp/images/monitor/27up650-w_ajl_ejjp_jp_c/27UP650-W_AJL_EJJP_JP_C-450x450.jpg",
+    "source": "https://www.lg.com/jp/monitors/4k-5k-monitors/27up650-w/",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 23204,
+    "verified": true
+  },
+  {
+    "sku": "IT-0040",
+    "url": "https://www.sklep-lenovo.pl/media/products/0cc6ff86fb6b6d1e77bc57d92a9c9875/images/thumbnail/large_T24i-30.png?lm=1737737690",
+    "source": "https://www.sklep-lenovo.pl/monitor-lenovo-thinkvision-t24i-30-63cfmatxeu.html",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 81085,
+    "verified": true
+  },
+  {
+    "sku": "IT-0041",
+    "url": "https://hp.widen.net/content/ikce5f2ejw/webp/ikce5f2ejw.png?w=573&h=430&dpi=72&color=ffffff00",
+    "source": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-m404dn",
+    "status": 200,
+    "content_type": "image/webp",
+    "bytes": 6098,
+    "verified": true
+  },
+  {
+    "sku": "IT-0042",
+    "url": "https://assets.brother.com/transform/9e10532c-7486-43cf-831d-0f47e1270ad2/20689_Refresh_Spinner_updateHL-L2350dw-jpg?io=transform:fit,width:680",
+    "source": "https://www.brother-usa.com/products/hll2350dw",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 23923,
+    "verified": true
+  },
+  {
+    "sku": "IT-0043",
+    "url": "https://cdn.media.amplience.net/i/canon/pixma_g3410-as-fra_4c70ad9f96f948a8b32187fb69d362d9?$prod-gallery-1by1-jpg$",
+    "source": "https://www.canon-europe.com/printers/pixma-g3410/",
+    "status": 200,
+    "content_type": "image/avif",
+    "bytes": 2696,
+    "verified": true
+  },
+  {
+    "sku": "IT-0044",
+    "url": "https://cdn.cs.1worldsync.com/94/98/9498118b-9cb9-4e05-9f41-8603b2785e37.jpg",
+    "source": "https://business.currys.co.uk/catalogue/printers/ink-toner/toner-inks/hp-59a-black-original-laserjet-toner-cartridge-cf259a/P275130P",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 24954,
+    "verified": true
+  },
+  {
+    "sku": "IT-0045",
+    "url": "https://www.acihellas.gr/content/images/thumbs/0059438_epson-103-4-inkjet-printer-cartridges-multipack-yellow-cyan-magenta-black-c13t00s64a-epst00s64a-epst00s64a_0.jpeg",
+    "source": "https://www.acihellas.gr/epst00s64a",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 191199,
+    "verified": true
+  },
+  {
+    "sku": "IT-0046",
+    "url": "https://img.pchome.com.tw/cs/items/DCACBYA900G4MEU/000001_1718788104.jpg",
+    "source": "https://24h.pchome.com.tw/prod/DCACBY-A900G4MEU",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 75490,
+    "verified": true
+  },
+  {
+    "sku": "IT-0047",
+    "url": "https://img.pchome.com.tw/cs/items/DCACI0A900IU6N4/000001_1747722838.jpg",
+    "source": "https://24h.pchome.com.tw/prod/DCACI0-A900IU6N4",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 63128,
+    "verified": true
+  },
+  {
+    "sku": "IT-0048",
+    "source": "https://www.mundonerdslz.com.br/cabo-de-rede-cat-6-com-3-metros-uutp-ugreen",
+    "image": "https://cdn.awsli.com.br/2500x2500/2521/2521575/produto/304297894/cabo-de-rede-cat-6-com-3-metros--uutp---ugreen-eq0c1ozksr.png",
+    "title": " Ugreen Cat6 3M Ethernet Cable",
+    "url": "https://cdn.awsli.com.br/2500x2500/2521/2521575/produto/304297894/cabo-de-rede-cat-6-com-3-metros--uutp---ugreen-eq0c1ozksr.png",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 967427,
+    "verified": true
+  },
+  {
+    "sku": "IT-0049",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A2663111-Anker_715_Charger_Nano_II_65W.png?v=1767756360",
+    "source": "https://www.anker.com/products/a2663",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 563997,
+    "verified": true
+  },
+  {
+    "sku": "IT-0050",
+    "url": "https://cdn.cs.1worldsync.com/82/48/82482cec-1eb3-421a-b6b0-463f44668e91.jpg",
+    "source": "https://portal.shi.com/product/17611827/StarTech.com-DisplayPort-to-HDMI-Adapter",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 84783,
+    "verified": true
+  }
+]

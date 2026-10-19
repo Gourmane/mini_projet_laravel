@@ -1,0 +1,17 @@
+{
+    "products": {
+        "count": 50,
+        "preserved": true
+    },
+    "categories": {
+        "count": 8,
+        "preserved": true
+    },
+    "stock_movements": {
+        "count": 75,
+        "preserved": true
+    },
+    "units": 1027,
+    "images": 50,
+    "note": "Product updated_at excluded: image save\/restore tested on IT-0049. All previous business fields and all movement rows preserved."
+}
